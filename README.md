@@ -8,3 +8,8 @@ Running the Main Program
 
 1) Setup a "working" directory and add an empty folder called "Plugins"
 2) Run the class *com.mgatelabs.swftools.FlashExploitGui* and make sure you properly setup the working path.  It's also a good idea to give the program a bit more ram.
+
+Dependencies
+=============
+
+1) None, everything was included

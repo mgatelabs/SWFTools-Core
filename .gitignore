@@ -1,4 +1,8 @@
 *.class
+# Windows Files #
+*.db
+# SWF Files #
+.swf
 
 # Package Files #
 *.jar

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hash>
+    <data name="name" data="Advanced Converter"/>
+    <data name="file" data="AdvancedConverter.class"/>
+    <data name="class" data="AdvancedConverter"/>
+    <data name="description" data="This is the Free Advanced converter"/>
+    <data name="encrypted" data="0"/>
+    <data name="id" data="4"/>
+    <data name="type" data="1"/>
+    <data name="major" data="1"/>
+    <data name="minor" data="0"/>
+</hash>

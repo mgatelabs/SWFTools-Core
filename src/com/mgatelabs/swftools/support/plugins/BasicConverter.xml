@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hash>
+    <data name="name" data="Prototype Converter"/>
+    <data name="file" data="BasicConverter.class"/>
+    <data name="class" data="BasicConverter"/>
+    <data name="description" data="This is the Prototype Converter"/>
+    <data name="encrypted" data="0"/>
+    <data name="id" data="0"/>
+    <data name="type" data="1"/>
+    <data name="major" data="1"/>
+    <data name="minor" data="0"/>
+</hash>

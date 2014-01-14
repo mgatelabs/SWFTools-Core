@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hash>
+    <data name="name" data="Edit PlaceObject"/>
+    <data name="file" data="BEditPlaceObject.class"/>
+    <data name="class" data="BEditPlaceObject"/>
+    <data name="description" data="Test PlaceObject"/>
+    <data name="encrypted" data="0"/>
+    <data name="id" data="1010"/>
+    <data name="type" data="3"/>
+    <data name="major" data="1"/>
+    <data name="minor" data="0"/>
+</hash>

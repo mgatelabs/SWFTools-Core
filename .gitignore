@@ -2,7 +2,8 @@
 # Windows Files #
 *.db
 # SWF Files #
-.swf
+*.swf
+*.iml
 
 # Package Files #
 *.jar
